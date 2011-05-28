@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/unifieddb/!svn/ver/401/trunk/Updates/0.12.1_additions
+END
+393_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/393/trunk/Updates/0.12.1_additions/393_updatepack_mangos.sql
+END
+394_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/394/trunk/Updates/0.12.1_additions/394_updatepack_mangos.sql
+END
+395_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/396/trunk/Updates/0.12.1_additions/395_updatepack_mangos.sql
+END
+396_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/396/trunk/Updates/0.12.1_additions/396_updatepack_mangos.sql
+END
+397_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/397/trunk/Updates/0.12.1_additions/397_updatepack_mangos.sql
+END
+398_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/398/trunk/Updates/0.12.1_additions/398_updatepack_mangos.sql
+END
+394_readme_forum_address.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/unifieddb/!svn/ver/394/trunk/Updates/0.12.1_additions/394_readme_forum_address.txt
+END
+399_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/399/trunk/Updates/0.12.1_additions/399_updatepack_mangos.sql
+END
+401_corepatch_mangos_11305_to_11376.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/401/trunk/Updates/0.12.1_additions/401_corepatch_mangos_11305_to_11376.sql
+END
+394_corepatch_characters_10546_to_10720.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/unifieddb/!svn/ver/394/trunk/Updates/0.12.1_additions/394_corepatch_characters_10546_to_10720.sql
+END
+397_corepatch_characters_10905_to_11064.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/unifieddb/!svn/ver/397/trunk/Updates/0.12.1_additions/397_corepatch_characters_10905_to_11064.sql
+END
+398_corepatch_characters_11065_to_11156.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/unifieddb/!svn/ver/398/trunk/Updates/0.12.1_additions/398_corepatch_characters_11065_to_11156.sql
+END
+394_corepatch_mangos_10546_to_10720.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/394/trunk/Updates/0.12.1_additions/394_corepatch_mangos_10546_to_10720.sql
+END
+393_corepatch_characters_10259_to_10545.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/unifieddb/!svn/ver/393/trunk/Updates/0.12.1_additions/393_corepatch_characters_10259_to_10545.sql
+END
+395_corepatch_characters_10721_to_10892.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/unifieddb/!svn/ver/395/trunk/Updates/0.12.1_additions/395_corepatch_characters_10721_to_10892.sql
+END
+400_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/400/trunk/Updates/0.12.1_additions/400_updatepack_mangos.sql
+END
+397_corepatch_mangos_10905_to_11064.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/397/trunk/Updates/0.12.1_additions/397_corepatch_mangos_10905_to_11064.sql
+END
+399_corepatch_mangos_11157_to_11242.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/401/trunk/Updates/0.12.1_additions/399_corepatch_mangos_11157_to_11242.sql
+END
+401_updatepack_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/unifieddb/!svn/ver/401/trunk/Updates/0.12.1_additions/401_updatepack_mangos.sql
+END
+398_corepatch_mangos_11065_to_11156.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/398/trunk/Updates/0.12.1_additions/398_corepatch_mangos_11065_to_11156.sql
+END
+393_corepatch_mangos_10259_to_10545.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/393/trunk/Updates/0.12.1_additions/393_corepatch_mangos_10259_to_10545.sql
+END
+395_corepatch_mangos_10721_to_10892.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/unifieddb/!svn/ver/395/trunk/Updates/0.12.1_additions/395_corepatch_mangos_10721_to_10892.sql
+END
+400_corepatch_characters_11243_to_11304.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/unifieddb/!svn/ver/400/trunk/Updates/0.12.1_additions/400_corepatch_characters_11243_to_11304.sql
+END
