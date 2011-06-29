@@ -1,1 +1,0 @@
-UPDATE gameobject SET rotation0 = 0, rotation1 = 0, rotation2 = SIN(orientation * 0.5), rotation3 = COS(orientation * 0.5); 
